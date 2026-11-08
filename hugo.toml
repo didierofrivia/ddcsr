@@ -1,9 +1,9 @@
-baseURL = "https://jesuisdidi.neocities.org/"
+baseURL = "https://www.ddcsr.com/"
 languageCode = "en-us"
 theme = "glim-midnight"
 
 [params]
-    headtitle = "Je Suis Didi"
+    headtitle = "didi di cesare"
     title = "Didi Di Cesare"
     socialLinks = [
         {name = "Mastodon", url="https://mastodon.online/@didierofrivia", icon="mastodon.svg"},
